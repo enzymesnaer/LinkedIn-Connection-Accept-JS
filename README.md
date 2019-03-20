@@ -7,4 +7,4 @@ Accept LinkedIn Connections Request using JavaScript Console Code.
 3. Hit Enter
 4. After Enter all the connection request will be accepted automatically.
 
-<b>Note:</b> This is not a big task/super coding. it's just fun with javascript coding.
+<b>Note:</b> This is not a big task/supercoding, it's just fun with javascript coding.
