@@ -1,8 +1,8 @@
 // Copy This Code And Paste It on The Console of LinkedIn Page.
 
-var connection = document.getElementByClassName("button-secondary-medium");
+var connection = document.getElementByClassName("artdeco-button--secondary");
 
-//button-secondary-medium is a class name of Accept button
+//artdeco-button--secondary is a class name of Accept button
 
 for(i=0;i<connection.length;i++)
 {
